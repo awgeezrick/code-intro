@@ -1,25 +1,25 @@
-[1. Starting to code](https://colab.research.google.com/github/jigsawlabs-student/code-intro/blob/master/0-starting-to-code.ipynb)
+[0. Starting to code](https://colab.research.google.com/github/jigsawlabs-student/code-intro/blob/master/0-starting-to-code.ipynb)
 
-[2. Variables](https://colab.research.google.com/github/jigsawlabs-student/code-intro/blob/master/2-visual-variables.ipynb)
+[1. Variables](https://colab.research.google.com/github/jigsawlabs-student/code-intro/blob/master/1-visual-variables.ipynb)
 
-[3. Lists](https://colab.research.google.com/github/jigsawlabs-student/code-intro/blob/master/3-visual-lists.ipynb)
+[2. Lists](https://colab.research.google.com/github/jigsawlabs-student/code-intro/blob/master/2-visual-lists.ipynb)
 
-[4. Dictionaries](https://colab.research.google.com/github/jigsawlabs-student/code-intro/blob/master/4-visual-dicts.ipynb)
+[3. Dictionaries](https://colab.research.google.com/github/jigsawlabs-student/code-intro/blob/master/3-visual-dicts.ipynb)
 
-[5. Coding Tips](https://colab.research.google.com/github/jigsawlabs-student/code-intro/blob/master/5-review.ipynb)
+[4. Coding Tips](https://colab.research.google.com/github/jigsawlabs-student/code-intro/blob/master/4-review.ipynb)
 
-[6. Intro to Loops](https://colab.research.google.com/github/jigsawlabs-student/code-intro/blob/master/6-introduction-to-loops.ipynb)
+[5. Intro to Loops](https://colab.research.google.com/github/jigsawlabs-student/code-intro/blob/master/5-introduction-to-loops.ipynb)
 
-[7. Nested Data Structures](https://colab.research.google.com/github/jigsawlabs-student/code-intro/blob/master/7-nested-data-structures.ipynb)
+[6. Nested Data Structures](https://colab.research.google.com/github/jigsawlabs-student/code-intro/blob/master/6-nested-data-structures.ipynb)
 
-[8. Looping Through Live Data](https://colab.research.google.com/github/jigsawlabs-student/code-intro/blob/master/8-looping-through-live-data.ipynb)
+[7. Looping Through Live Data](https://colab.research.google.com/github/jigsawlabs-student/code-intro/blob/master/7-looping-through-live-data.ipynb)
 
-[9. Loops to Lists](https://colab.research.google.com/github/jigsawlabs-student/code-intro/blob/master/9-loops-to-lists.ipynb)
+[8. Loops to Lists](https://colab.research.google.com/github/jigsawlabs-student/code-intro/blob/master/8-loops-to-lists.ipynb)
 
-[10. Gathering Live Data](https://colab.research.google.com/github/jigsawlabs-student/code-intro/blob/master/9-exploring-live-data.ipynb)
+[9. Gathering Live Data](https://colab.research.google.com/github/jigsawlabs-student/code-intro/blob/master/9-exploring-live-data.ipynb)
 
-[11. Saving Work With Functions](https://colab.research.google.com/github/jigsawlabs-student/code-intro/blob/master/91-saving-work-with-functions.ipynb)
+[10. Saving Work With Functions](https://colab.research.google.com/github/jigsawlabs-student/code-intro/blob/master/10-saving-work-with-functions.ipynb)
 
-[12. Function Arguments](https://colab.research.google.com/github/jigsawlabs-student/code-intro/blob/master/92-function-arguments.ipynb)
+[11. Function Arguments](https://colab.research.google.com/github/jigsawlabs-student/code-intro/blob/master/11-function-arguments.ipynb)
 
-[13. Code to Codebase](https://colab.research.google.com/github/jigsawlabs-student/code-intro/blob/master/93-code-to-codebase.ipynb)
+[12. Code to Codebase](https://colab.research.google.com/github/jigsawlabs-student/code-intro/blob/master/12-code-to-codebase.ipynb)
